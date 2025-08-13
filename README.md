@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vikramjit Singh
 
 💻 **Final-year B.Tech Computer Engineering Student**  
-🚀 Passionate about **AI, IoT, Networking, and Full-Stack Development**  
+🚀 Passionate about **AI/ML , IoT,Computer Networking, and Full-Stack Development**  
 🎯 Always learning, building, and exploring tech solutions.
 
 ---
@@ -53,20 +53,20 @@
 | **Portfolio Website** | My personal portfolio showcasing skills & projects. | HTML, CSS, JS | [🔗 View Repo](#) |
 | **IoT Smart Home Simulation** | Simulated IoT home automation system. | Cisco Packet Tracer, IoT devices | [🔗 View Repo](#) |
 | **Spam Email Classifier** | Classifies emails as spam or not spam using ML. | Python, Scikit-learn | [🔗 View Repo](#) |
-| **Dockerized Django App** | Django web app deployed in Docker container. | Django, Docker, MySQL | [🔗 View Repo](#) |
+| **Ping Tester** | Configured Routers and Switches and Integrated them with Python to test pinging on devices on network. | PuTTy, Cisco packet tracer, Pyhton. | [🔗 View Repo](#) |
 
 ---
 
 ## 📊 GitHub Stats
-![Vikramjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=vikramjitsingh1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramjitsingh1&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramjit-singh-a5661b279/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/vikramjitsingh1)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:vikramjitwork89@gmail.com)
 
 ---
-💡 *"Code is like humor. When you have to explain it, it’s bad."*
+💡 *" Always Learning and Trying Hard to Achieve my goals !! "*
